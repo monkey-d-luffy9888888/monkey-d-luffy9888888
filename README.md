@@ -1,68 +1,93 @@
-# Manikandan Santhosh
+<div align="center">
 
-**AI Systems Engineer** — I build production AI systems: multi-model extraction pipelines, LoRA fine-tuning workflows, document AI, and real-time intelligence platforms.
+# Hi 👋, I'm Manikandan Santhosh!
 
-Based in India. Open to AI Engineer roles at teams building serious infrastructure.
+### AI Developer · Python Developer · Full-Stack Developer from India 🇮🇳
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manikandan--portfolio--delta.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://manikandan-portfolio-delta.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikandan_Santhosh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-s-032518285/)
-[![Email](https://img.shields.io/badge/Email-maniappu7777@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maniappu7777@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=monkey-d-luffy9888888&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/monkey-d-luffy9888888)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/manikandan-s-032518285)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:maniappu7777@gmail.com)
 
----
-
-## What I Build
-
-**Document AI & Extraction Pipelines**  
-Multi-stage pipelines combining YOLO region detection, Tesseract OCR, and dual-LLM verification to extract structured data from engineering PDFs, CAD drawings, and product specifications. Every LLM output is validated against a Pydantic schema — no silent data corruption in production.
-
-**LLM Fine-Tuning**  
-End-to-end fine-tuning pipelines for Google Gemma using LoRA/PEFT. Dataset curation, mixed-precision training on A100, gradient checkpointing, adapter merge, Hugging Face Hub deployment, FastAPI inference endpoint.
-
-**Browser AI Extensions**  
-Chrome extensions (Manifest V3) with local or cloud AI backends. Dual-model product data extraction (Perplexity sonar-pro + Gemini), real-time candlestick pattern detection with Binance API, all with JSON schema validation and corrective retry logic.
-
-**Enterprise Automation**  
-Full-stack systems handling end-to-end workflows: AI-enriched product data pipelines publishing to Shopify via AWS S3 + Lambda, Excel audit automation with rule-based + LLM validation layers writing PostgreSQL audit trails.
+</div>
 
 ---
 
-## Featured Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [ADM Retail Platform](https://manikandan-portfolio-delta.vercel.app/project/adm-retail-platform) | FastAPI · React · PostgreSQL · AWS · Shopify | 5-stage AI pipeline: supplier Excel → enrich → classify → review → Shopify publish |
-| [DTLP Data Extraction Extension](https://manikandan-portfolio-delta.vercel.app/project/dtlp-data-extraction-extension) | Chrome MV3 · Perplexity sonar-pro · Gemini | Dual-LLM product attribute extraction with schema validation and IndexedDB storage |
-| [AI Trading Extension](https://manikandan-portfolio-delta.vercel.app/project/ai-trading-extension) | Flask · Binance API · Chrome MV3 | 14-pattern candlestick detector with local-first Flask backend and AI trade signals |
-| [Gemma Fine-Tuning](https://manikandan-portfolio-delta.vercel.app/experience/gemma-fine-tuning) | LoRA · PEFT · Colab A100 · HF Hub | Full LoRA fine-tuning pipeline: dataset → bf16 training → merge → FastAPI inference |
-| [PDF + CAD AI Extractor](https://manikandan-portfolio-delta.vercel.app/experience/pdf-cad-ai-extractor) | YOLO · Tesseract · FastAPI | Custom YOLO region detection → region-specific OCR → AI structuring layer |
-| [Enterprise Audit AI](https://manikandan-portfolio-delta.vercel.app/experience/enterprise-audit-ai) | Python · OpenPyXL · LLMs · PostgreSQL | Two-layer validation: rule-based + LLM contextual error detection on Excel datasets |
+- 🔭 &nbsp;**Currently building:** Enterprise AI systems — LLM extraction pipelines, OCR document AI, and Chrome extensions
+- 🌱 &nbsp;**Currently learning:** Advanced RAG systems, LangChain, and cloud-native AI deployment
+- 💬 &nbsp;**Ask me about:** Python, FastAPI, LLM integration, LoRA fine-tuning, Chrome Extensions (MV3)
+- 🚀 &nbsp;**Shipped:** 6 production AI systems for enterprise clients
+- 📫 &nbsp;**Reach me:** [maniappu7777@gmail.com](mailto:maniappu7777@gmail.com)
+- ⚡ &nbsp;**Fun fact:** I built a dual-LLM verification pipeline where two models independently agree before any data is trusted!
 
 ---
 
-## Stack
+### 🌐 Connect with me
 
-```
-AI / ML        Python · Transformers · LoRA/PEFT · Gemma · Tesseract · YOLO (Ultralytics)
-               Perplexity sonar-pro · Google Gemini · LLM Orchestration · JSON Schema Validation
-
-Backend        FastAPI · Flask · PostgreSQL · SQLAlchemy · Pydantic · OpenPyXL · Pandas
-               REST APIs · WebSocket · Async I/O
-
-Frontend       React 19 · TypeScript · Vite · TailwindCSS · Framer Motion
-               Chrome Extensions (Manifest V3) · IndexedDB
-
-Infrastructure Docker · Google Cloud Platform · AWS S3 · AWS Lambda · Hugging Face Hub
-               Git · GitHub Actions
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikandan-s-032518285)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniappu7777@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkey-d-luffy9888888)
 
 ---
 
-## Engineering Approach
+### 🛠️ Languages and Tools
 
-I treat schema validation on LLM outputs as non-negotiable — silent malformed data in production is harder to debug than a noisy retry loop. I prefer local-first architectures for tools that handle sensitive data (trading signals, proprietary documents). I use deterministic rule-based logic where it covers the problem precisely, and reach for LLMs only where deterministic approaches break down.
+#### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-Full engineering write-ups for every project at [manikandan-portfolio-delta.vercel.app](https://manikandan-portfolio-delta.vercel.app).
+#### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Frontend & Browser
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-*Available for AI Engineer roles · India · Open to remote*
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monkey-d-luffy9888888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey-d-luffy9888888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monkey-d-luffy9888888&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🚀 Key Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| **Enterprise AI Product Extractor** | Python · OCR · LLMs · FastAPI · GCP | Dual-LLM verification pipeline for enterprise document AI |
+| **DTLP Chrome Extension** | JS · MV3 · Perplexity · Gemini · IndexedDB | Dual-model product spec extractor — fully local, no server |
+| **AI Trading Extension** | Python · Flask · Binance API | 14-pattern candlestick detector with live AI signal overlay |
+| **Gemma LoRA Fine-Tuning** | Python · PEFT · Hugging Face · FastAPI | End-to-end fine-tuning pipeline trained on A100 |
+| **Enterprise Audit AI** | Python · OpenPyXL · LLMs · PostgreSQL | Rule engine + LLM layer for Excel dataset validation |
+| **PDF + CAD AI Extractor** | YOLO · Tesseract · FastAPI | Region detection + OCR for engineering CAD documents |
+
+---
+
+<div align="center">
+  <i>Open to roles as an AI Developer, Python Developer, or Full-Stack Developer</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=80&section=footer" />
+</div>
