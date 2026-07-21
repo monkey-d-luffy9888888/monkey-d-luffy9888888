@@ -1,93 +1,119 @@
 <div align="center">
 
-# Hi 👋, I'm Manikandan Santhosh!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manikandan%20Santhosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%C2%B7%20Python%20Developer%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
-### AI Developer · Python Developer · Full-Stack Developer from India 🇮🇳
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manikandan+Santhosh!;AI+Developer+%7C+Python+Developer;Building+Production+AI+Systems;LLMs+%C2%B7+FastAPI+%C2%B7+OCR+%C2%B7+React+%C2%B7+Docker)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=monkey-d-luffy9888888&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/monkey-d-luffy9888888)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/manikandan-s-032518285)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:maniappu7777@gmail.com)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=monkey-d-luffy9888888&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/monkey-d-luffy9888888)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://manikandan-portfolio-delta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikandan-s-032518285)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniappu7777@gmail.com)
 
 </div>
 
 ---
 
-- 🔭 &nbsp;**Currently building:** Enterprise AI systems — LLM extraction pipelines, OCR document AI, and Chrome extensions
-- 🌱 &nbsp;**Currently learning:** Advanced RAG systems, LangChain, and cloud-native AI deployment
-- 💬 &nbsp;**Ask me about:** Python, FastAPI, LLM integration, LoRA fine-tuning, Chrome Extensions (MV3)
-- 🚀 &nbsp;**Shipped:** 6 production AI systems for enterprise clients
-- 📫 &nbsp;**Reach me:** [maniappu7777@gmail.com](mailto:maniappu7777@gmail.com)
-- ⚡ &nbsp;**Fun fact:** I built a dual-LLM verification pipeline where two models independently agree before any data is trusted!
+### 👨‍💻 About Me
+
+```python
+developer = {
+    "name":       "Manikandan Santhosh",
+    "role":       "AI Developer | Python Developer | Full-Stack Developer",
+    "location":   "Coimbatore, Tamil Nadu, India 🇮🇳",
+    "building":   "Production AI systems — LLM pipelines, OCR document AI, Chrome extensions",
+    "learning":   "Advanced RAG systems, LangChain, cloud-native AI deployment",
+    "ask_me":     ["Python", "FastAPI", "LLMs", "LoRA fine-tuning", "Chrome Extensions"],
+    "shipped":    "6 production AI systems for enterprise clients",
+    "fun_fact":   "I built a dual-LLM pipeline where two models independently verify before data is trusted!",
+    "open_to":    ["AI Developer", "Python Developer", "Full-Stack Developer"],
+}
+```
 
 ---
 
-### 🌐 Connect with me
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikandan-s-032518285)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniappu7777@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkey-d-luffy9888888)
+<div align="center">
 
----
+**AI & Machine Learning**
 
-### 🛠️ Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 
-#### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Backend**
 
-#### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,redis&theme=dark)](https://skillicons.dev)
 
-#### Frontend & Browser
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend & Browser**
 
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
+**DevOps & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,aws,git,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Specialisations:**
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=flat-square&logoColor=white)
+![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-db2777?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OCR](https://img.shields.io/badge/OCR-d97706?style=flat-square&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-27338e?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0891b2?style=flat-square&logoColor=white)
+![Chrome Extensions MV3](https://img.shields.io/badge/Chrome_Extensions_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-009688?style=flat-square&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monkey-d-luffy9888888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey-d-luffy9888888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monkey-d-luffy9888888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey-d-luffy9888888&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monkey-d-luffy9888888&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monkey-d-luffy9888888&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monkey-d-luffy9888888&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 </div>
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Projects
 
-| Project | Stack | What it does |
+| 🏗️ Project | ⚙️ Stack | 📝 What it does |
 |---|---|---|
-| **Enterprise AI Product Extractor** | Python · OCR · LLMs · FastAPI · GCP | Dual-LLM verification pipeline for enterprise document AI |
-| **DTLP Chrome Extension** | JS · MV3 · Perplexity · Gemini · IndexedDB | Dual-model product spec extractor — fully local, no server |
-| **AI Trading Extension** | Python · Flask · Binance API | 14-pattern candlestick detector with live AI signal overlay |
-| **Gemma LoRA Fine-Tuning** | Python · PEFT · Hugging Face · FastAPI | End-to-end fine-tuning pipeline trained on A100 |
-| **Enterprise Audit AI** | Python · OpenPyXL · LLMs · PostgreSQL | Rule engine + LLM layer for Excel dataset validation |
-| **PDF + CAD AI Extractor** | YOLO · Tesseract · FastAPI | Region detection + OCR for engineering CAD documents |
+| **[Enterprise AI Product Extractor](#)** | Python · OCR · LLMs · FastAPI · GCP | Dual-LLM verification pipeline — primary extracts, second independently verifies each field |
+| **[DTLP Chrome Extension](#)** | JS · MV3 · Perplexity · Gemini · IndexedDB | Dual-model product spec extractor — fully local, no server required |
+| **[AI Trading Extension](#)** | Python · Flask · Binance API | 14-pattern candlestick detector with live AI signal overlay injected into browser |
+| **[Gemma LoRA Fine-Tuning](#)** | Python · PEFT · Hugging Face · FastAPI | End-to-end fine-tuning pipeline trained on A100 + Hugging Face Hub deployment |
+| **[Enterprise Audit AI](#)** | Python · OpenPyXL · LLMs · PostgreSQL | Rule engine + LLM layer for large-scale Excel dataset validation |
+| **[PDF + CAD AI Extractor](#)** | YOLO · Tesseract · FastAPI | Region detection + OCR for engineering CAD documents → typed JSON |
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monkey-d-luffy9888888&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
 <div align="center">
-  <i>Open to roles as an AI Developer, Python Developer, or Full-Stack Developer</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=80&section=footer" />
+
+### 🤝 Let's Connect
+
+*Open to roles as an AI Developer, Python Developer, or Full-Stack Developer*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-manikandan--portfolio.vercel.app-2563EB?style=for-the-badge)](https://manikandan-portfolio-delta.vercel.app)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
